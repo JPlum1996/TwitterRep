@@ -13,17 +13,6 @@ The following **required** functionality is completed:
 - [X] The current signed in user will be persisted across restarts
 - [X] In the home timeline, user can view tweet with the user profile picture, username, tweet text, and timestamp.
 
-The following **optional** features are implemented:
-
-- [ ] Retweeting and favoriting should increment the retweet and favorite count.
-- [ ] User can load more tweets once they reach the bottom of the feed using infinite loading similar to the actual Twitter client.
-- [ ] User should be able to unretweet and unfavorite and should decrement the retweet and favorite count.
-- [ ] User can pull to refresh.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 
 ## Video Walkthrough 
 
