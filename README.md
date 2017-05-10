@@ -2,11 +2,10 @@
 
 **Twitter** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
 
-Time spent: **10** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is available:
 
 - [X] User can sign in using OAuth login flow
 - [X] User can view last 20 tweets from their home timeline
